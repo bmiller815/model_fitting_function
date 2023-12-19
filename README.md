@@ -6,7 +6,7 @@ To construct my_glm2, I developed multiple helper functions, each tailored to a 
 
 **Features**
 
-+ Flexible Model Fitting: Fit linear, logistic, or Poisson regression models using your data frame and formula input.
-+ Customizable Iterations: Specify the maximum number of iterations for Fisher scoring.
-+ Comprehensive Output: Retrieve regression tables with coefficients, standard errors, test scores, and p values.
-+ Detailed Model Information: Obtain the model's family, the number of iterations used, and the model's deviance.
++ **Flexible Model Fitting**: Fit linear, logistic, or Poisson regression models using your data frame and formula input.
++ **Customizable Iterations**: Specify the maximum number of iterations for Fisher scoring.
++ **Comprehensive Output**: Retrieve regression tables with coefficients, standard errors, test scores, and p values.
++ **Detailed Model Information**: Obtain the model's family, the number of iterations used, and the model's deviance.
